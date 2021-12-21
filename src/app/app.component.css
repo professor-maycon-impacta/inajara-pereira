@@ -1,0 +1,16 @@
+body {
+	font: 16px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #afced6;
+	padding: 30px;
+	background-color: #525151;
+}
+
+h1,h2 {
+	font-family: Georgia;
+}
+
+
+label {
+	font-weight: bold;
+	margin-right: 10px;
+}
